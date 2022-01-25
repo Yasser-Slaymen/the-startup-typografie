@@ -32,12 +32,19 @@ Deze opdracht gaat over [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
 1. Bekijk de ontwerpen die je deze sprint gemaakt hebt.
 2. Maak screenshots en plaats dezen in de Readme.
 3. Beschrijf in de Readme welke typografische keuzes je gemaakt hebt, denk aan:  
--Keuze van lettertype. 
--Hierarchie. 
--Witruimte. 
+  
+-Keuze van lettertype.  
+  
+-Hierarchie.  
+  
+-Witruimte.  
+  
 -Uitlijning.  
--Leesregellengte. 
--Interlinie/line height/leading. 
+  
+-Leesregellengte.  
+  
+-Interlinie/line height/leading.  
+  
 -Kerning en tracking. 
 
 #### Materiaal analysefase

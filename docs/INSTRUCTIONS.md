@@ -81,5 +81,9 @@ Focus sprint 6 - De focus van deze sprint ligt op werkwijze, samenwerken. Toepas
 
 Deze taak is 'done' als:
 
+- [ ] Je in je beschrijving duidelijk maakt dat je de basisprincipes typografie kent en begrijpt.
+- [ ] Je kan uitleggen waarom je bepaalde typografische keuzes hebt gemaakt.
+- [ ] Je de typografie hebt verbeterd waar nodig.
+- [ ] De opdracht is gedocumenteerd in de Readme van de leertaak
 
 

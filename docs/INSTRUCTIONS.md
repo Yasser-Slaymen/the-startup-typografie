@@ -79,7 +79,7 @@ Deze opdracht gaat over [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
 
 Focus sprint 6 - De focus van deze sprint ligt op werkwijze, samenwerken. Toepassen wat je al hebt geleerd. Er achter komen dat je een bedrijf kan helpen en advies kan geven over verschillende frontend zaken zoals navigatie, toegankelijkheid, interface design.
 
-Dit betekent dus ook dat je je ontwerpkeuzes moet kunnen uitleggen en onderbouwen!
+Dit betekent dus ook dat je je ontwerpkeuzes moet kunnen uitleggen en onderbouwen!  
 Deze taak is 'done' als:
 
 - [ ] Je in je beschrijving duidelijk maakt dat je de basisprincipes typografie kent en begrijpt.

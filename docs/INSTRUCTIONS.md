@@ -2,10 +2,9 @@
 
 Semester 1, The startup
 
-# Typografie
+# The start up - typografie
 
-Je leert praten over de keuzes die je maakt in je ontwerp.  
-Je toont aan hoe de basisprincipes van typografie zijn toegepast in jouw ontwerp.
+Toon aan hoe de basisprincipes van typografie zijn toegepast in jouw ontwerp.  
 
 ## Context
 

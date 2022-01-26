@@ -75,6 +75,7 @@ Deze opdracht gaat over [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
 ## Criteria
 
 *Gedragscriteria*. 
+
 M: Past aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving toe.  
 P: Gebruikt aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving om een passende oplossing voor een opdrachtgever te realiseren.  
 L: Maakt aangeboden materie eigen en gebruikt dit bij leertaken.  

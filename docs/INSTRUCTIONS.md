@@ -1,7 +1,5 @@
 
 
-Semester 1, The startup
-
 # The start up - typografie
 
 Toon aan hoe de basisprincipes van typografie zijn toegepast in jouw ontwerp.  

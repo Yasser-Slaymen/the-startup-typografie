@@ -72,7 +72,10 @@ Deze opdracht gaat over [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
 </details>
 
 
-## Criteria
+## Criteria. 
+
+Focus sprint 6 - De focus van deze sprint ligt op werkwijze, samenwerken. Toepassen wat je al hebt geleerd. Er achter komen dat je een bedrijf kan helpen en advies kan geven over verschillende frontend zaken zoals navigatie, toegankelijkheid, interface design.  
+
 
 *Gedragscriteria*. 
 
@@ -84,7 +87,7 @@ L: Toont beginnend inzicht in eigen capaciteiten en beperkingen en kan deze beno
 
 *Definitions of done*
 
-Focus sprint 6 - De focus van deze sprint ligt op werkwijze, samenwerken. Toepassen wat je al hebt geleerd. Er achter komen dat je een bedrijf kan helpen en advies kan geven over verschillende frontend zaken zoals navigatie, toegankelijkheid, interface design.
+
 
 Dit betekent dus ook dat je je ontwerpkeuzes moet kunnen uitleggen en onderbouwen!  
 Deze taak is 'done' als:

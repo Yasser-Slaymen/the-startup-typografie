@@ -4,7 +4,8 @@ Semester 1, The startup
 
 # Typografie
 
-Aantonen hoe de basisprincipes van typografie zijn toegepast in jouw ontwerp
+Je leert praten over de keuzes die je maakt in je ontwerp.  
+Je toont aan hoe de basisprincipes van typografie zijn toegepast in jouw ontwerp.
 
 ## Context
 
@@ -30,7 +31,7 @@ Deze opdracht gaat over [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
 <summary>Aanpak</summary>
 
 1. Bekijk de ontwerpen die je deze sprint gemaakt hebt.
-2. Maak screenshots en plaats dezen in de Readme.
+2. Maak screenshots en plaats ze in de Readme.
 3. Beschrijf in de Readme welke typografische keuzes je gemaakt hebt, denk aan:  
   
 -Keuze van lettertype.  

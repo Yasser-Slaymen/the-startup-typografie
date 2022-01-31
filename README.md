@@ -6,7 +6,11 @@
 < 📸 --![Screenshot (196)](https://user-images.githubusercontent.com/90189815/151858233-1dfc53c4-ff32-4754-bfa8-0df4d58a69e3.png)
 >
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
+typografie:
+Hier gebruik ik  lettertype Open-sans, sans-serif dit soort van lettertype meer formeel en ook hij makkelijk om te lezen op computer en andere apparaten  . 
+Om het effect van tennis voorkomen (de woorden in one line meer dan 12 geeft tennis effect ), ik gebruik hier margin van twee kanten van blook , om te houd het aantal woorden binnen twaalf  woorden per line.
+Ook gebruiken line-height , font-siz om te maak de text meer leesbaar. 
+
 
 
 <!-- Voeg een link toe naar Github Pages 🌐-->

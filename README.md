@@ -16,7 +16,7 @@ Ook gebruiken line-height , font-siz om te maak de text meer leesbaar.
 
 
 
-<!-- Voeg een link toe naar Github Pages 🌐-->
+< 🌐 https://yasser-slaymen.github.io/the-startup-fdnd-skc/>
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->

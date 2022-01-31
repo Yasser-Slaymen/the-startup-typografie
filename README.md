@@ -8,7 +8,10 @@
 ## Beschrijving
 typografie:
 Hier gebruik ik  lettertype Open-sans, sans-serif dit soort van lettertype meer formeel en ook hij makkelijk om te lezen op computer en andere apparaten  . 
-Om het effect van tennis voorkomen (de woorden in one line meer dan 12 geeft tennis effect ), ik gebruik hier margin van twee kanten van blook , om te houd het aantal woorden binnen twaalf  woorden per line.
+
+Om het effect van tennis voorkomen (de woorden in one line meer dan 12 geeft tennis effect ),
+ik gebruik hier margin van twee kanten van blook ,
+om te houd het aantal woorden binnen twaalf  woorden per line.
 Ook gebruiken line-height , font-siz om te maak de text meer leesbaar. 
 
 

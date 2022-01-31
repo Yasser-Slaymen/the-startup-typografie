@@ -3,11 +3,12 @@
 # sprint6-fix the flow
 
 
-< 📸 -->
-## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
 < 📸 --![Screenshot (196)](https://user-images.githubusercontent.com/90189815/151858233-1dfc53c4-ff32-4754-bfa8-0df4d58a69e3.png)
 >
+## Beschrijving
+<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
+
+
 <!-- Voeg een link toe naar Github Pages 🌐-->
 
 ## Kenmerken
